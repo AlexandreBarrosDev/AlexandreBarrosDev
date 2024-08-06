@@ -12,7 +12,7 @@ minhas habilidades incluem proficiência em sistemas operacionais e redes, além
 ## 🏢 **Atuação Profissional**
 - Atualmente em transição de carreira.
 
-## **Contato**
+## 📧 **Contato**
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%233c3c6c?style=for-the-badge&logo=Linkedin&logoColor=%23ffcc00
 )](https://www.linkedin.com/in/alexandrebarrosdev)
