@@ -14,6 +14,8 @@ minhas habilidades incluem proficiência em sistemas operacionais e redes, além
 
 ## 📧 **Contato**
 
+[![Gmail](https://img.shields.io/badge/gmail-%233c3c6c?style=for-the-badge&logo=Gmail&logoColor=%23ffcc00
+)](alexandrebarros.dev@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-%233c3c6c?style=for-the-badge&logo=Linkedin&logoColor=%23ffcc00
 )](https://www.linkedin.com/in/alexandrebarrosdev)
 [![Github](https://img.shields.io/badge/github-%233c3c6c?style=for-the-badge&logo=Github&logoColor=%23ffcc00
