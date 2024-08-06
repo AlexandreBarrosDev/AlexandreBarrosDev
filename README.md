@@ -1,5 +1,4 @@
 <h1>
-    <a href="https://elidianaandrade.github.io/">
      <img align="center" width="60px" src="https://github.com/AlexandreBarrosDev/Portfolio/blob/a181037b648ee34bac842a738b38cfa30c15d2da/imagens/logoab.svg"></a>
     <span>Alexandre Barros</span>
 </h1>
