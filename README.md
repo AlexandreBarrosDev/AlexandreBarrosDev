@@ -4,7 +4,7 @@
 
 👋Olá, eu sou Alexandre Barros 
 
-✨ Paulistano atualmente residindo em Santa Catarina, Estou cursando [ADS](https://www.unisociesc.com.br/). Profissional com experiência em suporte técnico em transição para a área de tecnologia com foco em desenvolvimento web. Apaixonado por aprender novas habilidades e resolver problemas complexos através de soluções tecnológicas.
+✨ Paulistano atualmente residindo em Santa Catarina,BR. Estou cursando [ADS](https://www.unisociesc.com.br/). Profissional com experiência em suporte técnico em transição para a área de tecnologia com foco em desenvolvimento web. Apaixonado por aprender novas habilidades e resolver problemas complexos através de soluções tecnológicas.
 
 minhas habilidades incluem proficiência em sistemas operacionais e redes, além de conhecimentos em programação. Caracterizo-me pela adaptabilidade, responsabilidade e capacidade de trabalhar em equipe. Meus objetivos incluem concluir a formação acadêmica e avançar na carreira enquanto mantenho um equilíbrio saudável entre a vida pessoal e profissional.
 
