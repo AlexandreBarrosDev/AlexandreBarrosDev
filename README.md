@@ -1,5 +1,5 @@
 <h1>
-     <img align="center" width="60px" src="https://github.com/AlexandreBarrosDev/Portfolio/blob/a181037b648ee34bac842a738b38cfa30c15d2da/imagens/logoab.svg">
+     <img align="center" width="60px" src="https://github.com/AlexandreBarrosDev/Portfolio/blob/main/imagens/logoab.svg">
 </h1>
 
 👋Olá, eu sou Alexandre Barros 
