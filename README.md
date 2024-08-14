@@ -40,8 +40,8 @@ minhas habilidades incluem proficiência em sistemas operacionais e redes, além
 <details markdown='1'><summary>1- Fundamentos &#9745; </summary>
 
 - [x] Base C#/.Net
-- [ ] CRUD
-- [ ] POO
+- [x] CRUD
+- [x] POO
 </details>
  <details markdown='2'><summary>2- Banco de Dados</summary>
 
