@@ -22,7 +22,7 @@ minhas habilidades incluem proficiência em sistemas operacionais e redes, além
 
 ## 📊 **Estatísticas no GitHub**
 
-![AlexandreBarrosDev's Stats](https://github-readme-stats.vercel.app/api?username=AlexandreBarrosDev&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![AlexandreBarrosDev's Stats](https://github-readme-stats.vercel.app/api?username=AlexandreBarrosDev&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 ## 🤹‍♂️ **Habilidades**
 
