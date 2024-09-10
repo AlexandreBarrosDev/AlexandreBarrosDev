@@ -43,15 +43,15 @@ minhas habilidades incluem proficiência em sistemas operacionais e redes, além
 - [x] CRUD
 - [x] POO
 </details>
- <details markdown='2'><summary>2- Banco de Dados</summary>
+ <details markdown='2'><summary>2- Banco de Dados &#9745; </summary>
 
-- [ ] ORM
-   - [ ] Entity Framework
-   - [ ] Mapeamento
-   - [ ] Migrations
-- [ ] Micro ORM
-   - [ ] Dapper
-   - [ ] SQL
+- [x] ORM
+   - [x] Entity Framework
+   - [x] Mapeamento
+   - [x] Migrations
+- [x] Micro ORM
+   - [x] Dapper
+   - [x] SQL
 </details>
 <details markdown='3'><summary>3- Arquitetura</summary>
 
