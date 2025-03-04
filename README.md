@@ -27,51 +27,8 @@ minhas habilidades incluem proficiência em sistemas operacionais e redes, além
 ## 🤹‍♂️ **Habilidades**
 
 ![Markdown](https://img.shields.io/badge/markdown-%230000ff?style=for-the-badge&logo=markdown&logoColor=%23ffffff)
-![UML](https://img.shields.io/badge/uml-%23ffff00?style=for-the-badge&logo=UML&logoColor=%23333333)
 ![GIT](https://img.shields.io/badge/git-%23ff2400?style=for-the-badge&logo=Git&logoColor=%23ffffff&logoSize=auto)
 ![HTML5](https://img.shields.io/badge/html-%23ec6231?style=for-the-badge&logo=HTML5&logoColor=%23ffffff)
 ![CSS3](https://img.shields.io/badge/css-%23264de4?style=for-the-badge&logo=CSS3&logoColor=%23ffffff)
 ![JavaScript](https://img.shields.io/badge/javascript-%23f0db4f?style=for-the-badge&logo=javascript&logoColor=%23333333)
-
-
-### ![Dotnet Developer](https://img.shields.io/badge/Stack%20em%20aprendizado-%23aa00ff?style=for-the-badge&logo=.net&logoSize=auto)
-
-
-<details markdown='1'><summary>1- Fundamentos &#9745; </summary>
-
-- [x] Base C#/.Net
-- [x] CRUD
-- [x] POO
-</details>
- <details markdown='2'><summary>2- Banco de Dados &#9745; </summary>
-
-- [x] ORM
-   - [x] Entity Framework
-   - [x] Mapeamento
-   - [x] Migrations
-- [x] Micro ORM
-   - [x] Dapper
-   - [x] SQL
-</details>
-<details markdown='3'><summary>3- Arquitetura</summary>
-
-- [ ] Padrões Arquiteturais
-- [ ] Camadas e Responsabilidades
-- [ ] Design Patterns
-</details>
-<details markdown='4'><summary>4- Testes</summary>
-
-- [ ] Unitários
-- [ ] Integração
-</details>
-<details markdown='5'><summary>5- Estrutura/Nuvem</summary>
-
-- [ ] CI/CD
-- [ ] Pipeline
-- [ ] Kubernetes/Dockers
-</details>
-<details markdown='6'><summary>6- Blazor</summary>
-
-
-</details>
 
