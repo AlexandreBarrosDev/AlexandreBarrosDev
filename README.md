@@ -31,4 +31,6 @@ Minhas habilidades incluem proficiência em sistemas operacionais e redes, além
 
 ## **Bootcamps e Certificações**
 
-[<img src="https://assets.dio.me/_ImeVq2qMIfyFkoYC-epZ9o-1X9soGtq69WUykqhiL4/f:webp/h:120/q:80/L3RyYWNrcy81NWU3MDQwZi03NzViLTQ3ZTUtYThmYi02OWQwMDJjYTE3YTkucG5n" height="50"></a>](https://hermes.dio.me/certificates/KYHPKTND.pdf)
+[<img src="https://assets.dio.me/0JQqr8ZwT-UxlnECL_OiT33rG3DrDD_Lc1BCMsn_iso/f:webp/h:120/q:80/L3RyYWNrcy8zZjAzZTNmNS03Nzk1LTQ1NzktYTI1YS0wZTk1ODdlMGRmNzcucG5n" height="80"></a>](https://hermes.dio.me/certificates/1TVAHFWC.pdf)
+[<img src="https://assets.dio.me/_ImeVq2qMIfyFkoYC-epZ9o-1X9soGtq69WUykqhiL4/f:webp/h:120/q:80/L3RyYWNrcy81NWU3MDQwZi03NzViLTQ3ZTUtYThmYi02OWQwMDJjYTE3YTkucG5n" height="80"></a>](https://hermes.dio.me/certificates/KYHPKTND.pdf)
+[<img src="https://assets.dio.me/xEToxE9fgWwdB62arhyfnUPNNK42xbqSOzHNRpWtDxk/f:webp/h:120/q:80/L3RyYWNrcy8wYTY1YmE2MS1hOGZhLTQ2ZDktODhhYS1kYmViYjAyOTU4M2UucG5n" height="80"></a>](https://hermes.dio.me/certificates/MHFXIDNU.pdf)
