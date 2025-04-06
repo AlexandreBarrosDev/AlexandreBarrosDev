@@ -22,12 +22,17 @@ Minhas habilidades incluem proficiência em sistemas operacionais e redes, além
 ![AlexandreBarrosDev's Stats](https://github-readme-stats.vercel.app/api?username=AlexandreBarrosDev&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 ## **Habilidades**
-
-![Markdown](https://img.shields.io/badge/markdown-%230000ff?style=for-the-badge&logo=markdown&logoColor=%23ffffff)
-![GIT](https://img.shields.io/badge/git-%23ff2400?style=for-the-badge&logo=Git&logoColor=%23ffffff&logoSize=auto)
-![HTML5](https://img.shields.io/badge/html-%23ec6231?style=for-the-badge&logo=HTML5&logoColor=%23ffffff)
-![CSS3](https://img.shields.io/badge/css-%23264de4?style=for-the-badge&logo=CSS3&logoColor=%23ffffff)
-![JavaScript](https://img.shields.io/badge/javascript-%23f0db4f?style=for-the-badge&logo=javascript&logoColor=%23333333)
+<div align='center' style='display: flex; flex-direction: column; gap: 1;'>
+     <span><img align="center" width='50px' height='50px' src="https://github.com/AlexandreBarrosDev/portfolio/blob/main/public/figma.svg"></span>
+     <span><img align="center" width='50px' height='50px' src="https://github.com/AlexandreBarrosDev/portfolio/blob/main/public/git.svg"></span>
+     <span><img align="center" width='50px' height='50px' src="https://github.com/AlexandreBarrosDev/portfolio/blob/main/public/html5.svg"></span>
+     <span><img align="center" width='50px' height='50px' src="https://github.com/AlexandreBarrosDev/portfolio/blob/main/public/css3.svg"></span>
+     <span><img align="center" width='50px' height='50px' src="https://github.com/AlexandreBarrosDev/portfolio/blob/main/public/tailwindcss.svg"></span>
+     <span><img align="center" width='50px' height='50px' src="https://github.com/AlexandreBarrosDev/portfolio/blob/main/public/javascript.svg"></span>
+     <span><img align="center" width='50px' height='50px' src="https://github.com/AlexandreBarrosDev/portfolio/blob/main/public/react.svg"></span>
+     <span><img align="center" width='50px' height='50px' src="https://github.com/AlexandreBarrosDev/portfolio/blob/main/public/nextdotjs.svg"></span>
+     <span><img align="center" width='50px' height='50px' src="https://github.com/AlexandreBarrosDev/portfolio/blob/main/public/typescript.svg"></span>
+</div>
 
 ## **Bootcamps e Certificações**
 
