@@ -13,8 +13,8 @@ Minhas habilidades incluem proficiência em sistemas operacionais e redes, além
 
 <div align='center' color='#fff'><br>
      <span><a href="alexandrebarros.dev@gmail.com" target="_blank"><img align="center" width='50px' height='50px' src="https://alexandrebarros.netlify.app/bx-envelope.svg"></a></span>
-     <span><a href="https://www.linkedin.com/in/alexandrebarrosdev" target="_blank"><img align="center" width='50px' height='50px' src="https://github.com/AlexandreBarrosDev/portfolio/blob/main/public/bxl-linkedin-square.svg"></a></span>
-     <span><a href="https://github.com/AlexandreBarrosDev" target="_blank"><img align="center" width='50px' height='50px' src="https://github.com/AlexandreBarrosDev/portfolio/blob/main/public/bxl-github.svg"></a></span>
+     <span><a href="https://www.linkedin.com/in/alexandrebarrosdev" target="_blank"><img align="center" width='50px' height='50px' src="https://alexandrebarros.netlify.app/bxl-linkedin-square.svg"></a></span>
+     <span><a href="https://github.com/AlexandreBarrosDev" target="_blank"><img align="center" width='50px' height='50px' src="https://alexandrebarros.netlify.app/bxl-github.svg"></a></span>
 </div><br>
 
 ## **Estatísticas no GitHub**
@@ -26,15 +26,15 @@ Minhas habilidades incluem proficiência em sistemas operacionais e redes, além
 
 ## **Habilidades**
 <div align='center'><br>
-     <span><img align="center" width='50px' height='50px' src="https://github.com/AlexandreBarrosDev/portfolio/blob/main/public/figma.svg"></span>
-     <span><img align="center" width='50px' height='50px' src="https://github.com/AlexandreBarrosDev/portfolio/blob/main/public/git.svg"></span>
-     <span><img align="center" width='50px' height='50px' src="https://github.com/AlexandreBarrosDev/portfolio/blob/main/public/html5.svg"></span>
-     <span><img align="center" width='50px' height='50px' src="https://github.com/AlexandreBarrosDev/portfolio/blob/main/public/css3.svg"></span>
-     <span><img align="center" width='50px' height='50px' src="https://github.com/AlexandreBarrosDev/portfolio/blob/main/public/tailwindcss.svg"></span>
-     <span><img align="center" width='50px' height='50px' src="https://github.com/AlexandreBarrosDev/portfolio/blob/main/public/javascript.svg"></span>
-     <span><img align="center" width='50px' height='50px' src="https://github.com/AlexandreBarrosDev/portfolio/blob/main/public/react.svg"></span>
-     <span><img align="center" width='50px' height='50px' src="https://github.com/AlexandreBarrosDev/portfolio/blob/main/public/nextdotjs.svg"></span>
-     <span><img align="center" width='50px' height='50px' src="https://github.com/AlexandreBarrosDev/portfolio/blob/main/public/typescript.svg"></span>
+     <span><img align="center" width='50px' height='50px' src="https://alexandrebarros.netlify.app/figma.svg"></span>
+     <span><img align="center" width='50px' height='50px' src="https://alexandrebarros.netlify.app/git.svg"></span>
+     <span><img align="center" width='50px' height='50px' src="https://alexandrebarros.netlify.app/html5.svg"></span>
+     <span><img align="center" width='50px' height='50px' src="https://alexandrebarros.netlify.app/css3.svg"></span>
+     <span><img align="center" width='50px' height='50px' src="https://alexandrebarros.netlify.app/tailwindcss.svg"></span>
+     <span><img align="center" width='50px' height='50px' src="https://alexandrebarros.netlify.app/javascript.svg"></span>
+     <span><img align="center" width='50px' height='50px' src="https://alexandrebarros.netlify.app/react.svg"></span>
+     <span><img align="center" width='50px' height='50px' src="https://alexandrebarros.netlify.app/nextdotjs.svg"></span>
+     <span><img align="center" width='50px' height='50px' src="https://alexandrebarros.netlify.app/typescript.svg"></span>
 </div><br>
 
 ## **Bootcamps e Certificações**
